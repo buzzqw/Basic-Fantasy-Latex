@@ -2,9 +2,9 @@ This is my omage to [Basic Fantasy](https://www.basicfantasy.org/downloads.html)
 
 Since i am utterly unable to edit the [FREE manual](https://www.basicfantasy.org/downloads.html) with Libreoffice i ported it to Latex!
 
-The version of manual is indicated by the number next to BF , so BF132 mean Basic Fantasy version 132.
+The version of manual is 132.
 
-The BF.tex is always the latest version. For compiling the PDF you need Basic-Fantasy-RPG-Rules-r132.odt and unzip it. Move the Pictures folder to the same folder with BF.tex and rename Pictures folder to "Pictures132".
+For compiling the PDF you need Basic-Fantasy-RPG-Rules-r132.odt and unzip it. Move the Pictures folder to the same folder with BF.tex and rename Pictures folder to "Pictures132".
 
 My PDF while verbatim on text about original manual may have some difference in layout mostly due to different compiling and layout structuring by latex.
 
@@ -12,8 +12,6 @@ Soutane fonts freely avaiable from fontsgeek.com
 
 For compiling you need an updated Latex version using xelatex, or you can use the [tectonic](https://tectonic-typesetting.github.io/en-US/) engine for a simplier approach.
 
-
-Every commit will trigger an Action that compile BF.tex to Bf.pdf. This BF.pdf is avaiable on Actions tab
 
 ######################### Original preface in manual ########################
 
