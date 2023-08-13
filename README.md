@@ -2,9 +2,9 @@ This is my omage to [Basic Fantasy](https://www.basicfantasy.org/downloads.html)
 
 Since i am utterly unable to edit the [FREE manual](https://www.basicfantasy.org/downloads.html) with Libreoffice i ported it to Latex!
 
-The actual version of BF133.tex is equal to Basic Fantasy v133 (and BF132 to Basic Fantasy version 132). The BF133.pdf is the compiled pdf file without any images!
+Each versione of Basic Fantasy has own tex and pdf file. The pdf is compiled pdf file without any images!
 
-For compiling the PDF you need Basic-Fantasy-RPG-Rules-r133.odt and unzip it. Move the Pictures folder to the same folder with BF133.tex and rename Pictures folder to "Pictures133". Pay attention to line 22 of BF.tex about compiling with or without images.
+For compiling the PDF you need Basic-Fantasy-RPG-Rules-r133.odt and unzip it. Move the Pictures folder to the same folder with BF133.tex and rename Pictures folder to "PicturesXXX" where XXX is the revision number, like "Pictures134". Pay attention to line 22 of BF.tex about compiling with or without images.
 
 The resylting PDF while verbatim on text about original manual may have some difference in layout mostly due to different compiling and layout structuring by latex.
 
