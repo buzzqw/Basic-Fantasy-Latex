@@ -13,7 +13,7 @@ Soutane fonts freely avaiable from fontsgeek.com
 For compiling you need an updated Latex version using xelatex, or you can use the [tectonic](https://tectonic-typesetting.github.io/en-US/) engine for a simplier approach.
 
 
-######################### Original preface in manual ########################
+######################### Original preface in manual (version 132) ########################
 
 Dedicated to Gary Gygax, Dave Arneson, Tom Moldvay, David Cook, and  Stephen  Marsh and to my daughter Taylor, my first and best inspiration
 
