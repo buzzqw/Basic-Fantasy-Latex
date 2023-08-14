@@ -4,9 +4,9 @@ Since i am utterly unable to edit the [FREE manual](https://www.basicfantasy.org
 
 Each versione of Basic Fantasy has own tex and pdf file. The pdf is compiled pdf file without any images!
 
-For compiling the PDF you need, for example, Basic-Fantasy-RPG-Rules-r133.odt files and unzip it. Move the Pictures folder to the same folder with BF133.tex and rename Pictures folder to "PicturesXXX" where XXX is the revision number, like "Pictures133". Pay attention to line 22 of BF.tex about compiling with or without images.
+For compiling the PDF you need, for example, Basic-Fantasy-RPG-Rules-r133.odt and BF133.tex files. Unzip  Basic-Fantasy-RPG-Rules-r133.odt.  Move the Pictures folder to the same folder with BF133.tex and rename Pictures folder to "PicturesXXX" where XXX is the revision number, like "Pictures133". Pay attention to line 22 of BF.tex about compiling with or without images.
 
-The resylting PDF while verbatim on text about original manual may have some difference in layout mostly due to different compiling and layout structuring by latex.
+The resulting PDF while verbatim on text about original manual may have some difference in layout mostly due to different compiling and layout structuring by latex.
 
 Soutane fonts freely avaiable from fontsgeek.com
 
