@@ -1,3 +1,8 @@
+
+PLEASE CHECK THIS WORK https://gitlab.com/bfrpg/latex_version
+
+---
+
 This is my omage to [Basic Fantasy](https://www.basicfantasy.org/downloads.html) 
 
 Since i am utterly unable to edit the [FREE manual](https://www.basicfantasy.org/downloads.html) with Libreoffice i ported it to Latex!
